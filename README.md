@@ -64,9 +64,14 @@ Our project consists of the following steps. By completing these steps it will e
 
 - We are using Stacked LSTM containing 3 layers of LSTM stacked on top of each other. This will make our prediction much better. As per your requirement, you can have more also.
 
-- ![model_plot](https://github.com/sameewyne/Text-Summarizer-AI-/assets/113854930/424959f5-3412-4e25-bf03-c69b76892afc)
+  ![model_plot](https://github.com/sameewyne/Text-Summarizer-AI-/assets/113854930/424959f5-3412-4e25-bf03-c69b76892afc)
 
 - We will be using the saved model to create an inference architecture for the encoder and decoder model. The inference model is used to test the new sentences for which the target sequence is not known.
+
+- After training and testing the data on our model, we obtain the following graph:
+
+  ![model_plot](https://github.com/sameewyne/Text-Summarizer-AI-/assets/113854930/424959f5-3412-4e25-bf03-c69b76892afc)
+
 ## Summary
 
 In this project, we have developed a Text Summarizer model which generates the summary from the provided review using the LSTM model and Attention Mechanism. We got an accuracy of 87.82% which is good as we have taken only 1,00,000 records for training and testing sets.
