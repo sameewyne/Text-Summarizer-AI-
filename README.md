@@ -70,7 +70,7 @@ Our project consists of the following steps. By completing these steps it will e
 
 - After training and testing the data on our model, we obtain the following graph:
 
-  ![model_plot](https://github.com/sameewyne/Text-Summarizer-AI-/assets/113854930/424959f5-3412-4e25-bf03-c69b76892afc)
+  ![graph](https://github.com/sameewyne/Text-Summarizer-AI-/assets/113854930/888603c5-2083-4588-8082-9cdea7b80cbf)
 
 ## Summary
 
