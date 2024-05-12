@@ -63,9 +63,7 @@ Our project consists of the following steps. By completing these steps it will e
 - We will convert our word into integer sequence using vectorization technique.
 
 - We are using Stacked LSTM containing 3 layers of LSTM stacked on top of each other. This will make our prediction much better. As per your requirement, you can have more also.
-
 - ![model_plot](https://github.com/sameewyne/Text-Summarizer-AI-/assets/113854930/424959f5-3412-4e25-bf03-c69b76892afc)
-
 - We will be using the saved model to create an inference architecture for the encoder and decoder model. The inference model is used to test the new sentences for which the target sequence is not known.
 ## Summary
 
